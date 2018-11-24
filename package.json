@@ -1,0 +1,17 @@
+{
+  "name": "riot-ssr-now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'silence is golden'",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Gianluca Guarini <gianluca.guarini@gmail.com> (http://gianlucaguarini.com)",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "riot": "^3.12.0"
+  }
+}
